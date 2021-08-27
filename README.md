@@ -12,3 +12,5 @@ Based on their sales dataset, Fern Builders want to know:
 
 The original dataset and the finished .xlsx files can be found under the files folder. 
 
+The pivot sheets repsenting sales, wage margin, and days to complete highlight interactive charts and tables which answer questions presented by Fern Builders per sector/region.
+
