@@ -14,3 +14,8 @@ The original dataset and the finished .xlsx files can be found under the files f
 
 The pivot sheets repsenting sales, wage margin, and days to complete highlight interactive charts and tables which answer questions presented by Fern Builders per sector/region.
 
+Source: 
+The dataset was acquired from Ben Sullins Data Academy courses.
+bensullins.com
+
+
